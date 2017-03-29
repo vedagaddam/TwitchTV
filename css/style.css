@@ -1,0 +1,26 @@
+table{
+	font-size: 20px;
+}
+body {
+    background-color: #ffe6e6;
+}
+table{
+	background-color:   #ff9999;
+	color: white;
+	border-style: solid;
+	border-width: thick;
+}
+h5{
+	color: #0000ff;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
+th{
+	color: #800040;
+}
+h1{
+	color: #800040;
+	font-size: 50px;
+}
